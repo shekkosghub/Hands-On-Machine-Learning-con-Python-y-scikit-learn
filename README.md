@@ -1,0 +1,47 @@
+  Hands-On Machine Learning con Python y scikit-learn en Google Colab  \*, \*::before, \*::after { box-sizing: border-box; margin: 0; padding: 0; } :root { --bg: #ffffff; --bg-secondary: #f7f7f5; --bg-info: #e6f1fb; --text-primary: #1a1a18; --text-secondary: #5f5e5a; --text-info: #185fa5; --border: rgba(0,0,0,0.12); --border-info: #378add; --radius-md: 8px; --radius-lg: 12px; } @media (prefers-color-scheme: dark) { :root { --bg: #1c1c1a; --bg-secondary: #242422; --bg-info: #0c447c; --text-primary: #f0efe9; --text-secondary: #b4b2a9; --text-info: #85b7eb; --border: rgba(255,255,255,0.12); --border-info: #378add; } } body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: var(--bg); color: var(--text-primary); line-height: 1.7; font-size: 16px; } a { color: var(--text-info); text-decoration: none; } a:hover { text-decoration: underline; } .container { max-width: 720px; margin: 0 auto; padding: 0 1.5rem; } /\* HERO \*/ .hero { padding: 4rem 0 3rem; text-align: center; } .hero-badge { display: inline-block; background: var(--bg-info); color: var(--text-info); font-size: 13px; font-weight: 500; padding: 4px 14px; border-radius: 20px; margin-bottom: 1.5rem; } .hero h1 { font-size: clamp(1.6rem, 4vw, 2.2rem); font-weight: 600; line-height: 1.3; margin-bottom: 1rem; color: var(--text-primary); } .hero p { font-size: 1.05rem; color: var(--text-secondary); max-width: 560px; margin: 0 auto 2rem; } .btn { display: inline-block; padding: 0.65rem 1.6rem; border-radius: var(--radius-md); font-size: 0.95rem; font-weight: 500; cursor: pointer; transition: opacity 0.15s; } .btn:hover { opacity: 0.85; text-decoration: none; } .btn-primary { background: var(--text-primary); color: var(--bg); border: none; } .btn-outline { background: transparent; color: var(--text-primary); border: 1px solid var(--border); } .btn-group { display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap; } /\* DIVIDER \*/ .divider { border: none; border-top: 0.5px solid var(--border); margin: 0; } /\* SECTIONS \*/ section { padding: 2.5rem 0; } section h2 { font-size: 1.1rem; font-weight: 500; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.06em; font-size: 12px; margin-bottom: 1rem; } /\* SOBRE EL LIBRO \*/ .sobre p { font-size: 1.02rem; color: var(--text-primary); line-height: 1.8; } /\* ERRATAS \*/ .erratas-box { background: var(--bg-secondary); border: 0.5px solid var(--border); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; } .erratas-box h3 { font-size: 1rem; font-weight: 500; margin-bottom: 0.5rem; } .erratas-box p { font-size: 0.92rem; color: var(--text-secondary); } .erratas-box .fecha { font-size: 0.82rem; color: var(--text-secondary); margin-top: 0.75rem; } .tag-ok { display: inline-block; background: #eaf3de; color: #3b6d11; font-size: 12px; font-weight: 500; padding: 2px 10px; border-radius: 20px; margin-bottom: 0.75rem; } @media (prefers-color-scheme: dark) { .tag-ok { background: #27500a; color: #c0dd97; } } /\* BIO \*/ .bio { display: flex; align-items: flex-start; gap: 1.25rem; } .bio-avatar { width: 56px; height: 56px; border-radius: 50%; flex-shrink: 0; } .bio-name { font-size: 1rem; font-weight: 500; margin-bottom: 0.25rem; } .bio-title { font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 0.6rem; } .bio-desc { font-size: 0.93rem; color: var(--text-primary); line-height: 1.7; } .bio-links { margin-top: 0.6rem; display: flex; gap: 1rem; flex-wrap: wrap; } .bio-links a { font-size: 0.88rem; } /\* FOOTER \*/ footer { padding: 2rem 0; text-align: center; font-size: 0.85rem; color: var(--text-secondary); border-top: 0.5px solid var(--border); }
+
+Libro técnico · Python & scikit-learn
+
+Hands-On Machine Learning con Python y scikit-learn en Google Colab
+===================================================================
+
+De cero a tus primeros modelos: una guía práctica con scikit-learn en Google Colab
+
+[Comprar en Amazon](https://www.amazon.com.mx/dp/B0H1PC994S)
+
+* * *
+
+Sobre el libro
+--------------
+
+Este libro está diseñado para llevarte de cero a construir tus primeros modelos de machine learning usando Python, scikit-learn y Google Colab. Sin instalaciones, sin matemáticas intimidantes, sin requisitos previos de ML. Solo código real, explicaciones claras y proyectos prácticos que funcionan desde la primera celda.
+
+* * *
+
+Correcciones y actualizaciones
+------------------------------
+
+Sin erratas reportadas
+
+### El contenido está al día
+
+Esta página se actualiza cuando se detecta algún error o mejora en el contenido del libro.
+
+Última revisión: pendiente de fecha de publicación
+
+* * *
+
+El autor
+--------
+
+![Sergio Segura Gómez](photo.png)
+
+Sergio Segura Gómez
+
+Ingeniero en Sistemas Computacionales · Máster en Inteligencia Artificial, Universidad de La Rioja
+
+Apasionado de la tecnología y la inteligencia artificial. Escribe libros técnicos para hacer accesible el aprendizaje automático a hispanohablantes.
+
+[Blog: elblogdeia.blog](https://elblogdeia.blog/)
+
+© document.write(new Date().getFullYear()) Sergio Segura Gómez · Todos los derechos reservados
