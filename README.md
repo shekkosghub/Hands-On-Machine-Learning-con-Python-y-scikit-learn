@@ -40,4 +40,4 @@ Apasionado de la tecnología y la inteligencia artificial. Escribe libros técni
 
 [Blog: elblogdeia.blog](https://elblogdeia.blog/)
 
-© document.write(new Date().getFullYear()) Sergio Segura Gómez · Todos los derechos reservados
+© 2026 Sergio Segura Gómez · Todos los derechos reservados
