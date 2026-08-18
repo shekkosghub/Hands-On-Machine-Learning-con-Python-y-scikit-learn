@@ -23,7 +23,7 @@ Sin erratas reportadas
 
 Esta página se actualiza cuando se detecta algún error o mejora en el contenido del libro.
 
-Última revisión: pendiente de fecha de publicación
+Última revisión: Fecha de publicación 14 de Mayo 2026
 
 * * *
 
