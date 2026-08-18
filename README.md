@@ -36,7 +36,7 @@ Sergio Segura Gómez
 
 Ingeniero en Sistemas Computacionales · Máster en Inteligencia Artificial, Universidad de La Rioja
 
-Apasionado de la tecnología y la inteligencia artificial. Escribe libros técnicos para hacer accesible el aprendizaje automático a hispanohablantes.
+Apasionado de la tecnología y la inteligencia artificial. Escribo libros técnicos para hacer accesible el aprendizaje automático a hispanohablantes.
 
 [Blog: elblogdeia.blog](https://elblogdeia.blog/)
 
